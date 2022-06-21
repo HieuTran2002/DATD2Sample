@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mitsubiSharp", "mitsubiSharp.csproj", "{3A4A0D3F-0064-4369-BC09-C3417F070404}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C44D4562-2F17-4788-9F39-F55A553FAF27}"
+	ProjectSection(SolutionItems) = preProject
+		C:\MELSEC\Act\Control\ActUtlType.dll = C:\MELSEC\Act\Control\ActUtlType.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4A0D3F-0064-4369-BC09-C3417F070404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4A0D3F-0064-4369-BC09-C3417F070404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4A0D3F-0064-4369-BC09-C3417F070404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4A0D3F-0064-4369-BC09-C3417F070404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE39BC62-9664-4023-A5AB-FFA61CFA9B8C}
+	EndGlobalSection
+EndGlobal
