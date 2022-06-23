@@ -2,7 +2,6 @@ F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\bin\Debug\ArduinoCSharp.e
 F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\bin\Debug\ArduinoCSharp.exe
 F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\bin\Debug\ArduinoCSharp.pdb
 F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.AssemblyReference.cache
-F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.SuggestedBindingRedirects.cache
 F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\obj\Debug\ArduinoCSharp.Properties.Resources.resources
 F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.GenerateResource.cache
 F:\vault of code\vault of c#\DATD2Sample\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.CoreCompileInputs.cache
